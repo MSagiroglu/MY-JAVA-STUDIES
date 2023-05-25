@@ -1,4 +1,4 @@
-package introductions.day03scanner;
+package javastudies.day03scanner;
 
 public class Student {
     public String ogrenciName="Tom Hanks";

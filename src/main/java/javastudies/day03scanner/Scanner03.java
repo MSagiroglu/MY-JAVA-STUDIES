@@ -1,4 +1,4 @@
-package introductions.day03scanner;
+package javastudies.day03scanner;
 
 import java.util.Scanner;
 

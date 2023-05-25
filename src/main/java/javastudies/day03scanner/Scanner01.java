@@ -1,4 +1,4 @@
-package introductions.day03scanner;
+package javastudies.day03scanner;
 
 //Java nın util Library den Scanner Class import edildi demektir.
 import java.util.Scanner;
